@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.TweetBox {
+  width: 500px;
+  margin: auto;
+  padding: 20px;
+  padding-bottom: 1px;
+  background-color: white;
+}
+.profilePic-Name {
+  display: flex;
+  flex-direction: row;
+}
+.Profile-pic {
+  border-radius: 50%;
+  height: 55px;
+  width: 55px;
+  margin-top: 6px;
+}
+
+.Profile-name {
+  margin: auto 10px;
+}
+.tweet {
+  margin: 10px 5px;
+}
